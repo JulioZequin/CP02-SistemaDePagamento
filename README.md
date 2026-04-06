@@ -10,8 +10,8 @@
 
 <h2>👥 Integrantes do Grupo</h2>
 <ul>
-    <li><strong>Nome 1</strong> - RM XXXXX</li>
-    <li><strong>Nome 2</strong> - RM XXXXX</li>
+    <li><strong>Italo Caliari Silva</strong> - RM 554758</li>
+    <li><strong>Júlio César Ruiz Zequin</strong> - RM 554676</li>
     <li><strong>Nome 3</strong> - RM XXXXX</li>
     <li><strong>Nome 4</strong> - RM XXXXX</li>
     <li><strong>Nome 5</strong> - RM XXXXX</li>
