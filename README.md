@@ -70,6 +70,6 @@
 <h2>🛠️ Como executar</h2>
 <ol>
     <li>Clone o repositório.</li>
-    <li>Abra o arquivo <code>.sln</code> no Visual Studio 2022.</li>
+    <li>Abra o projeto no Visual Studio 2022.</li>
     <li>Pressione <code>F5</code> para compilar e executar.</li>
 </ol>
